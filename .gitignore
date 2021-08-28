@@ -1,0 +1,8 @@
+logs/*
+usercache.json
+usernamecache.json
+whitelist.json
+ops.json
+eula.txt
+world/*
+banned*
