@@ -6,3 +6,6 @@ ops.json
 eula.txt
 world/*
 banned*
+crash-reports/*
+OpenComputers*
+.mixin*
