@@ -9,3 +9,4 @@ banned*
 crash-reports/*
 OpenComputers*
 .mixin*
+config/activity.json
