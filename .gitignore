@@ -10,3 +10,4 @@ crash-reports/*
 OpenComputers*
 .mixin*
 config/activity.json
+mods/memory_repo
