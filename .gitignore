@@ -6,17 +6,8 @@ ops.json
 eula.txt
 world/*
 banned*
-<<<<<<< HEAD
-<<<<<<< HEAD
 crash-reports/*
 OpenComputers*
-.mixin*
 config/activity.json
-mods/memory_repo
-=======
->>>>>>> 0c500d0 (Commit the configs)
-=======
-crash-reports/*
-OpenComputers*
 .mixin*
->>>>>>> cc0b495 (Update git ignore and config files)
+backups/
